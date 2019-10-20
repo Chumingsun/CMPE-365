@@ -1,0 +1,4 @@
+Student Number: 10196230
+Fly from 30 to 182
+Fly from 182 to 62
+You will arrive at 15.
